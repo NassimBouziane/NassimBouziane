@@ -1,8 +1,8 @@
 # 💫 About Me:
 Bonjour,<br><br>
-Je suis actuellement étudiant en Master 1 à l'ETNA et je suis à la recherche d'une alternance dans le domaine du développement. J'ai acquis plusieurs compétences dans ce domaine, notamment en Typescript, Node.js, React, Next, MySQL, PHP (Symfony 7), Python, Tailwind ainsi que Kotlin. Je suis également familiarisé avec Prisma.<br><br>
-Fort d’une expérience professionnelle de 1 an et 7 mois en alternance, j’ai eu l’opportunité de mettre en pratique ces compétences sur des projets concrets, renforçant ainsi ma capacité à m’adapter rapidement à de nouveaux environnements et outils.<br><br>
-Je suis motivé et passionné par le développement web et je suis convaincu qu’une nouvelle expérience en alternance me permettrait de contribuer efficacement à des projets innovants tout en approfondissant mes connaissances dans ce domaine en constante évolution.<br>
+Je suis actuellement étudiant en Master 1 à l'ETNA et je suis à la recherche d'une alternance dans le domaine du développement. Au cours de ma formation scolaire et de mon expérience professionnelle en alternance (1 an et 7 mois), j'ai acquis plusieurs compétences techniques, notamment en Django, Python, TypeScript, Node.js, React, Next.js, Symfony 7, Python, MySQL, Tailwind ainsi qu'en Kotlin. Je suis également familiarisé avec Prisma.<br><br>
+Ces expériences m'ont permis de travailler sur des projets concrets tout en approfondissant mes connaissances théoriques, consolidant ainsi ma capacité à m’adapter rapidement à de nouveaux outils et technologies.<br><br>
+Je suis motivé et passionné par le développement web et je suis convaincu qu’une nouvelle expérience en alternance me permettrait de contribuer efficacement à des projets innovants tout en poursuivant mon apprentissage dans ce domaine en constante évolution.<br>
 
 
 ## 🌐 Socials:
